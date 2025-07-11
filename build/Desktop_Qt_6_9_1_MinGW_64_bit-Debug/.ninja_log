@@ -1,0 +1,10 @@
+# ninja log v6
+22	242	7739267113947242	E:/haishanda_project/GXChart/GXChart/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	8cc83bde399553ea
+7302	7856	7739267186742666	GXChart.exe	b49d67c2a5ddd6b3
+246	1632	7739267128118043	GXChart_autogen/mocs_compilation.cpp	562414f803d37074
+246	1632	7739267128118043	E:/haishanda_project/GXChart/GXChart/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/GXChart_autogen/timestamp	562414f803d37074
+246	1632	7739267128118043	GXChart_autogen/timestamp	562414f803d37074
+1659	7201	7739267130319949	CMakeFiles/GXChart.dir/main.cpp.obj	6c62bf0562d8ccb5
+246	1632	7739267128118043	E:/haishanda_project/GXChart/GXChart/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/GXChart_autogen/mocs_compilation.cpp	562414f803d37074
+1654	6954	7739267130216016	CMakeFiles/GXChart.dir/GXChart_autogen/mocs_compilation.cpp.obj	6c45fcaa196ff774
+1664	7302	7739267130319949	CMakeFiles/GXChart.dir/mainwindow.cpp.obj	fe9bdcea8257d678
